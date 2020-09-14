@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.profile.ProfileFragment">
+
+
+    <TextView
+        android:id="@+id/text_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="30dp"
+        android:drawablePadding="30dp"
+        android:gravity="center"
+        android:text="@string/profile_name"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:drawableLeftCompat="@drawable/avatar_1" />
+
+    <TextView
+        android:id="@+id/textViewEmail"
+        android:layout_width="244dp"
+        android:layout_height="23dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginBottom="24dp"
+        android:text="@string/email" />
+
+    <EditText
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="337dp"
+        android:layout_height="258dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="50dp"
+        android:autofillHints=""
+        android:cursorVisible="false"
+        android:ems="10"
+        android:enabled="false"
+        android:gravity="start|top"
+
+        android:hint="@string/summary"
+        android:inputType="none" />
+</LinearLayout>

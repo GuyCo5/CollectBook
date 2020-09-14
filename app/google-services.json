@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668247140727",
+    "firebase_url": "https://collectbook-afeka.firebaseio.com",
+    "project_id": "collectbook-afeka",
+    "storage_bucket": "collectbook-afeka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668247140727:android:1dc3f5ea9d7e3f930e5972",
+        "android_client_info": {
+          "package_name": "com.afeka.collectbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668247140727-fg1gr9l9pj291ic698crrc9ur885m0uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz26McZwGTjMKgm_BY9qbPFbnBPVJR4bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668247140727-fg1gr9l9pj291ic698crrc9ur885m0uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

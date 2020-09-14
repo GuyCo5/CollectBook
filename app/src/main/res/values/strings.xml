@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CollectBook</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_collections">Collections</string>
+    <string name="avatar">avatar</string>
+    <string name="email">email</string>
+    <string name="summary">summary</string>
+    <string name="profile_name">Profile Name</string>
+    <string name="sign_in_warning">Please sign-in to view your profile</string>
+    <string name="sign_in">Sign-in</string>
+</resources>
